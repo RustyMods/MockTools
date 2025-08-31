@@ -1,0 +1,14 @@
+{
+  "name": "MockTools",
+  "version": "0.0.1",
+  "displayName": "Valheim Mock Tools",
+  "description": "Helper component to clean up and rename mocks.",
+  "unity": "2020.3",
+  "unityRelease": "33f1",
+  "documentationUrl": "",
+  "dependencies": {},
+ "keywords": [
+    "Valheim",
+    "Unity"
+  ]
+}
