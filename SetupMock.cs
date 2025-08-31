@@ -86,7 +86,7 @@ public class SetupMock : MonoBehaviour
                     MockShaders.Add(shader);
                 }
                 else if (!shader.name.StartsWith("Custom")) continue;
-                Shaders.Add(shader);
+                else Shaders.Add(shader);
             }
         }
         MarkDirtyIfChanged();
